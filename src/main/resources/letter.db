@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<letter>
+
+    <meta>
+    $for(include-before)$
+    $include-before$
+    $endfor$
+    </meta>
+
+    <body>
+        $body$
+    </body>
+
+    <footer>
+    $for(include-after)$
+    $include-after$
+    $endfor$
+    </footer>
+
+</letter>

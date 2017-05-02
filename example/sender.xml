@@ -1,0 +1,15 @@
+<sender>
+    <contact>
+        <name>Max Mustermann</name>
+        <street>Musterstrasse 123</street>
+        <postcode>12345</postcode>
+        <city>Musterhausen</city>
+        <email>max@mustermann.de</email>
+        <phone>+49 123 / 456 78 9</phone>
+    </contact>
+    <bankInformation>
+        <bankname>Deutsche Bank</bankname>
+        <iban>DE11123456780012345678</iban>
+        <bic>DB12345</bic>
+    </bankInformation>
+</sender>
